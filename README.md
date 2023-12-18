@@ -26,7 +26,7 @@ This is a basic React application that allows users to view conversations, selec
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/azaadm/blink-chat-application.git
+   git clone https://github.com/azaadm/blink-chat-app.git
 ```
 
 2. Change into the project directory:
